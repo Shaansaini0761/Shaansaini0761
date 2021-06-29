@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaansaini8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaansaini8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaan saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaan saini" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shaan saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shaan saini" height="30" width="40" /></a>
-<a href="https://fb.com/shaan saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaan saini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaan-saini-7612b1174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaan-saini-7612b1174" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16339648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16339648" height="30" width="40" /></a>
+<a href="https://fb.com/shaan.saini.50999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaan.saini.50999" height="30" width="40" /></a>
 <a href="https://instagram.com/shaansaini143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaansaini143" height="30" width="40" /></a>
 </p>
 
